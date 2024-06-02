@@ -123,3 +123,64 @@ Der übrige Ram ist höchstwahrscheinlich zum darstellen der Plots und Legenden.
 # Aufgabe 3
 
 Ich habe verschiedene Hardware getestet, aber auch verschiedene Betriebssysteme. Die Auswertungen sind im Ordner ergebnisse. Zu sehen ist, dass sie unabhängig von der FFT schon für die Bibliotheken mehr oder weniger Ram benötigen.
+
+** Hardware 1**
+
+```code
+OS: Fedora Linux 40
+CPU: Intel(R) Core(TM) i5-7300z
+GPU: Intel HD Graphics 620
+Memory: 6.36 GiB / 19.41 GiB
+Swap: 772.00 KiB / 8.00 GiB
+
+1024
+================================================================
+Start: RSS = 110.71 MB, VMS = 672.89 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.84 MB, VMS = 693.07 MB
+After extracting one channel: RSS = 130.84 MB, VMS = 693.07 MB
+After computing spectrogram: RSS = 172.75 MB, VMS = 733.86 MB
+After plotting: RSS = 457.31 MB, VMS = 1061.81 MB
+```
+
+** Hardware 2** 
+
+```code
+OS: Windows 11 (Home) x86_64
+Kernel: WIN32_NT 10.0.22631.3593 (23H2)
+CPU: Intel(R) Core(TM) i7-9850H (12) @ 2,59 GHz
+GPU 1: Intel(R) UHD Graphics 630 (128,00 MiB) [Integrated]
+GPU 2: NVIDIA GeForce GTX 1650 (3,87 GiB) [Discrete]
+Memory: 8,40 GiB / 31,86 GiB
+Swap: 0 B / 2,00 GiB
+
+1024
+================================================================
+Start: RSS = 106.71 MB, VMS = 787.29 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 126.92 MB, VMS = 807.53 MB
+After extracting one channel: RSS = 126.92 MB, VMS = 807.53 MB
+After computing spectrogram: RSS = 168.04 MB, VMS = 848.54 MB
+After plotting: RSS = 478.18 MB, VMS = 1168.75 MB
+```
+
+** Hardware 3**
+
+```code
+OS: Windows 11 (Home) x86_64
+Kernel: WIN32_NT 10.0.22631.3593 (23H2)
+CPU: Intel(R) Core(TM) i5-1035G1 (8) @ 1,19 GHz
+GPU: Intel(R) UHD Graphics (128,00 MiB) [Integrated]
+Memory: 9,46 GiB / 11,78 GiB (80%)
+Swap: 1,24 GiB / 12,00 GiB (10%)
+
+1024
+================================================================
+
+Start: RSS = 93.69 MB, VMS = 522.90 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 113.88 MB, VMS = 543.12 MB
+After extracting one channel: RSS = 113.88 MB, VMS = 543.12 MB
+After computing spectrogram: RSS = 154.86 MB, VMS = 584.06 MB
+After plotting: RSS = 29.81 MB, VMS = 891.56 MB
+```
