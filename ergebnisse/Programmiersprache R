@@ -1,0 +1,5 @@
+Ergebnis:
+Start : RSS = 0.0003018379 MB, VMS = 0.1810837 MB
+Sample Rate: 44100 Hz
+After reading WAV file : RSS = 0.0003403473 MB, VMS = 0.2418518 MB
+After computing spectrogram : RSS = 0.0007645512 MB, VMS = 0.2418518 MB

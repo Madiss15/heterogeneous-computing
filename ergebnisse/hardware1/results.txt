@@ -1,0 +1,55 @@
+1024
+================================================================
+Start: RSS = 110.71 MB, VMS = 672.89 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.84 MB, VMS = 693.07 MB
+After extracting one channel: RSS = 130.84 MB, VMS = 693.07 MB
+After computing spectrogram: RSS = 172.75 MB, VMS = 733.86 MB
+After plotting: RSS = 457.31 MB, VMS = 1061.81 MB
+
+
+2048
+================================================================
+Start: RSS = 110.04 MB, VMS = 672.87 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.29 MB, VMS = 693.06 MB
+After extracting one channel: RSS = 130.29 MB, VMS = 693.06 MB
+After computing spectrogram: RSS = 172.18 MB, VMS = 733.84 MB
+After plotting: RSS = 457.31 MB, VMS = 1061.18 MB
+
+
+3072
+================================================================
+Start: RSS = 110.69 MB, VMS = 672.89 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.84 MB, VMS = 693.08 MB
+After extracting one channel: RSS = 130.84 MB, VMS = 693.08 MB
+After computing spectrogram: RSS = 172.73 MB, VMS = 733.89 MB
+After plotting: RSS = 457.82 MB, VMS = 1061.33 MB
+
+4096
+================================================================
+Start: RSS = 110.45 MB, VMS = 672.89 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.59 MB, VMS = 693.07 MB
+After extracting one channel: RSS = 130.59 MB, VMS = 693.07 MB
+After computing spectrogram: RSS = 172.49 MB, VMS = 733.91 MB
+After plotting: RSS = 457.31 MB, VMS = 1061.18 MB
+
+5120
+================================================================
+Start: RSS = 110.43 MB, VMS = 672.88 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.56 MB, VMS = 693.07 MB
+After extracting one channel: RSS = 130.56 MB, VMS = 693.07 MB
+After computing spectrogram: RSS = 172.49 MB, VMS = 733.96 MB
+After plotting: RSS = 457.47 MB, VMS = 1061.21 MB
+
+6144
+================================================================
+Start: RSS = 110.45 MB, VMS = 672.88 MB
+Sample Rate: 44100 Hz
+After reading WAV file: RSS = 130.59 MB, VMS = 693.07 MB
+After extracting one channel: RSS = 130.59 MB, VMS = 693.07 MB
+After computing spectrogram: RSS = 172.53 MB, VMS = 734.01 MB
+After plotting: RSS = 457.36 MB, VMS = 1061.08 MB

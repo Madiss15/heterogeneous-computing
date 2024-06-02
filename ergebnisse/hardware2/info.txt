@@ -1,0 +1,7 @@
+OS: Windows 11 (Home) x86_64
+Kernel: WIN32_NT 10.0.22631.3593 (23H2)
+CPU: Intel(R) Core(TM) i7-9850H (12) @ 2,59 GHz
+GPU 1: Intel(R) UHD Graphics 630 (128,00 MiB) [Integrated]
+GPU 2: NVIDIA GeForce GTX 1650 (3,87 GiB) [Discrete]
+Memory: 8,40 GiB / 31,86 GiB
+Swap: 0 B / 2,00 GiB

@@ -1,0 +1,6 @@
+OS: Windows 11 (Home) x86_64
+Kernel: WIN32_NT 10.0.22631.3593 (23H2)
+CPU: Intel(R) Core(TM) i5-1035G1 (8) @ 1,19 GHz
+GPU: Intel(R) UHD Graphics (128,00 MiB) [Integrated]
+Memory: 9,46 GiB / 11,78 GiB (80%)
+Swap: 1,24 GiB / 12,00 GiB (10%)

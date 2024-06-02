@@ -1,0 +1,5 @@
+OS: Fedora Linux 40
+CPU: Intel(R) Core(TM) i5-7300z
+GPU: Intel HD Graphics 620
+Memory: 6.36 GiB / 19.41 GiB
+Swap: 772.00 KiB / 8.00 GiB
